@@ -22,4 +22,7 @@ This is an Android application that uses **MVI (Model-View-Intent)** architectur
    git clone https://github.com/yourusername/appusingmvi.git
 
 ## Screenshot:
-![Screenshot 2025-03-19 052327](https://github.com/user-attachments/assets/a0465f8a-d40a-489d-96a3-163302328dfe)
+![Screenshot 2025-03-19 052327](https://github.com/user-attachments/assets/a0465f8a-d40a-489d-96a3-163302328dfe) 
+
+
+![Screenshot 2025-03-19 022945](https://github.com/user-attachments/assets/00c6ad7f-ff2c-4b1d-8c10-239dbed9019f)
